@@ -1,5 +1,5 @@
 # DataScienceCapstone
 
-## Editing the file
+## The Jupyter Notebooks and the Presentation files will be stored here
 
-Its a markdown file in this repository
+Lab 1: Data Collection
